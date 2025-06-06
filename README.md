@@ -28,8 +28,6 @@ python scripts/realtime_with_all_alerts.py
 
 - Vehicle/Drones: "Unidentified truck/airplane/boat detected."
 
-## Sample Output (Screenshots)
-
 
 ## License
 -This project is 100% free for educational and personal use.
